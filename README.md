@@ -4,7 +4,7 @@ The tool will enable network access for Chinese iPhones in iOS 10 to iOS 17.
 
 ## Background
 
-* Due to regional regulations, Chinese iPhones may suffer from offline of jailbreak apps.
+* Due to regional regulations, Chinese iPhones may suffer from offline of some apps.
 
 ## Supported
 
