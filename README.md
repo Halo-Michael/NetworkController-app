@@ -1,4 +1,4 @@
-# Networkcontroller-app
+# NetworkController-app
 
 The tool will control network access for Chinese iPhones/iPad in iOS 10 to iOS 17. 
 

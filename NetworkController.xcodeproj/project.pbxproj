@@ -20,7 +20,7 @@
 /* Begin PBXFileReference section */
 		040097462B177BBC0086427E /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		04690F3328F067B300AD4001 /* networkcontroller.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = networkcontroller.entitlements; sourceTree = "<group>"; };
-		04B0D3B528EFDA97007D020A /* Networkcontroller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Networkcontroller.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04B0D3B528EFDA97007D020A /* NetworkController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetworkController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B0D3B828EFDA97007D020A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		04B0D3B928EFDA97007D020A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		04B0D3BB28EFDA97007D020A /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 		04B0D3AC28EFDA97007D020A = {
 			isa = PBXGroup;
 			children = (
-				04B0D3B728EFDA97007D020A /* Networkcontroller */,
+				04B0D3B728EFDA97007D020A /* NetworkController */,
 				04B0D3B628EFDA97007D020A /* Products */,
 				040097452B177BBB0086427E /* Frameworks */,
 			);
@@ -66,12 +66,12 @@
 		04B0D3B628EFDA97007D020A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04B0D3B528EFDA97007D020A /* Networkcontroller.app */,
+				04B0D3B528EFDA97007D020A /* NetworkController.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		04B0D3B728EFDA97007D020A /* Networkcontroller */ = {
+		04B0D3B728EFDA97007D020A /* NetworkController */ = {
 			isa = PBXGroup;
 			children = (
 				04690F3328F067B300AD4001 /* networkcontroller.entitlements */,
@@ -87,15 +87,15 @@
 				04B0D3C928EFDA98007D020A /* Info.plist */,
 				04B0D3CA28EFDA98007D020A /* main.m */,
 			);
-			path = Networkcontroller;
+			path = NetworkController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04B0D3B428EFDA97007D020A /* Networkcontroller */ = {
+		04B0D3B428EFDA97007D020A /* NetworkController */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04B0D3CE28EFDA98007D020A /* Build configuration list for PBXNativeTarget "Networkcontroller" */;
+			buildConfigurationList = 04B0D3CE28EFDA98007D020A /* Build configuration list for PBXNativeTarget "NetworkController" */;
 			buildPhases = (
 				04B0D3B128EFDA97007D020A /* Sources */,
 				04B0D3B228EFDA97007D020A /* Frameworks */,
@@ -105,9 +105,9 @@
 			);
 			dependencies = (
 			);
-			name = Networkcontroller;
+			name = NetworkController;
 			productName = resolutionsetter;
-			productReference = 04B0D3B528EFDA97007D020A /* Networkcontroller.app */;
+			productReference = 04B0D3B528EFDA97007D020A /* NetworkController.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -124,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 04B0D3B028EFDA97007D020A /* Build configuration list for PBXProject "Networkcontroller" */;
+			buildConfigurationList = 04B0D3B028EFDA97007D020A /* Build configuration list for PBXProject "NetworkController" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -137,7 +137,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04B0D3B428EFDA97007D020A /* Networkcontroller */,
+				04B0D3B428EFDA97007D020A /* NetworkController */,
 			);
 		};
 /* End PBXProject section */
@@ -313,9 +313,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				HEADER_SEARCH_PATHS = Networkcontroller;
-				INFOPLIST_FILE = Networkcontroller/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Networkcontroller;
+				HEADER_SEARCH_PATHS = NetworkController;
+				INFOPLIST_FILE = NetworkController/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NetworkController;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -350,9 +350,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
-				HEADER_SEARCH_PATHS = Networkcontroller;
-				INFOPLIST_FILE = Networkcontroller/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Networkcontroller;
+				HEADER_SEARCH_PATHS = NetworkController;
+				INFOPLIST_FILE = NetworkController/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NetworkController;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -379,7 +379,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04B0D3B028EFDA97007D020A /* Build configuration list for PBXProject "Networkcontroller" */ = {
+		04B0D3B028EFDA97007D020A /* Build configuration list for PBXProject "NetworkController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04B0D3CC28EFDA98007D020A /* Debug */,
@@ -388,7 +388,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04B0D3CE28EFDA98007D020A /* Build configuration list for PBXNativeTarget "Networkcontroller" */ = {
+		04B0D3CE28EFDA98007D020A /* Build configuration list for PBXNativeTarget "NetworkController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				04B0D3CF28EFDA98007D020A /* Debug */,
