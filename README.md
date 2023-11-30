@@ -1,10 +1,10 @@
-# Networkfixer-app
+# Networkcontroller-app
 
-The tool will enable network access for Chinese iPhones in iOS 10 to iOS 17. 
+The tool will control network access for Chinese iPhones/iPad in iOS 10 to iOS 17. 
 
 ## Background
 
-* Due to regional regulations, Chinese iPhones may suffer from offline of some apps.
+* Due to regional regulations, Chinese iPhones/iPad may suffer from offline of some apps.
 
 ## Supported
 
